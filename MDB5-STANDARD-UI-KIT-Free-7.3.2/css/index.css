@@ -1,0 +1,56 @@
+
+.navv{
+
+     color: rgb(155, 163, 163);
+}
+.navvv{
+
+    background-color: black;
+}
+.navv:hover{
+
+    color: white;
+    font-size: large;
+}
+.cardd-title{
+
+    background-color: rgb(236, 243, 243);
+    
+}
+
+.ccard{
+background-color: black;
+}
+.ccardd{
+    background-color: rgb(19, 19, 230);
+}
+.footer{
+
+    padding-top: 80px;
+    background-color: black;
+    color: white;
+}
+
+.inputt{
+
+    width: 100%;
+    margin-left: 100PX;
+    height: 100px;
+}
+.inputt input{
+
+    width: 40%;
+    height: 50px;
+    text-align:left;
+}
+.form-check{
+
+    margin-left: 10%;
+    margin-top: 30px;
+}
+.sub{
+
+    background-color: blue;
+    color: white;
+    margin-left: 100px;
+}
